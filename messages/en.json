@@ -1,0 +1,156 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "process": "Process",
+    "clients": "Clients",
+    "contact": "Contact",
+    "language": "العربية"
+  },
+  "Home": {
+    "Hero": {
+      "headline": "Transforming Spaces Into Timeless Experiences",
+      "subheading1": "High-End Interior Fit-Out & Retail Space Design",
+      "subheading2": "Transforming concepts into remarkable environments.",
+      "btnProjects": "Explore Our Portfolio",
+      "btnContact": "Book Free Consultation"
+    },
+    "Stats": {
+      "expValue": "15+",
+      "expLabel": "Years Experience",
+      "projectsValue": "120+",
+      "projectsLabel": "Projects Completed",
+      "clientsValue": "40+",
+      "clientsLabel": "Commercial Clients",
+      "countriesValue": "5",
+      "countriesLabel": "Countries Served"
+    },
+    "About": {
+      "title": "About Zawaya International",
+      "p1": "Zawaya International is a specialized interior fit-out contractor delivering premium design and finishing solutions for commercial and hospitality spaces. We collaborate closely with brands and businesses to transform concepts into visually striking environments that enhance customer experience and elevate brand identity.",
+      "p2": "Our expertise covers design development, project management, interior construction, and high-end finishing works.",
+      "bullet1": "Bespoke interior design solutions",
+      "bullet2": "Premium materials and finishes",
+      "bullet3": "End-to-end project management",
+      "btn": "Learn More"
+    },
+    "Services": {
+      "title": "Our Expertise",
+      "subtitle": "Comprehensive fit-out solutions tailored for luxury and commercial environments.",
+      "s1_title": "Interior Fit-Out",
+      "s1_desc": "Complete interior construction and finishing services for commercial spaces including structural works, partitions, ceilings, lighting systems, and custom installations.",
+      "s2_title": "Retail Space Design",
+      "s2_desc": "Designing attractive retail environments that enhance customer experience and strengthen brand identity.",
+      "s3_title": "Hospitality Interiors",
+      "s3_desc": "Creating immersive and luxurious atmospheres for hotels, restaurants, and lounges.",
+      "s4_title": "Project Management",
+      "s4_desc": "End-to-end project supervision ensuring quality execution and on-time delivery."
+    },
+    "Projects": {
+      "title": "Our Portfolio",
+      "btnAll": "View All Projects",
+      "filterAll": "All",
+      "filterRetail": "Retail",
+      "filterHospitality": "Hospitality",
+      "filterResidential": "Residential"
+    },
+    "Process": {
+      "title": "Our Work Process",
+      "subtitle": "A structured approach from concept to reality.",
+      "step1_title": "Consultation",
+      "step1_desc": "We understand your brand, space requirements, and project goals.",
+      "step2_title": "Concept Design",
+      "step2_desc": "Our design team develops layouts and visual concepts.",
+      "step3_title": "Execution",
+      "step3_desc": "Our technical team manages construction and interior works.",
+      "step4_title": "Delivery",
+      "step4_desc": "We deliver the completed space ready for operation."
+    },
+    "WhyUs": {
+      "title": "Why Choose Zawaya",
+      "f1_title": "Experienced Team",
+      "f1_desc": "Highly skilled architects, designers, and engineers.",
+      "f2_title": "Premium Materials",
+      "f2_desc": "We use high-quality materials and finishing solutions.",
+      "f3_title": "On-Time Delivery",
+      "f3_desc": "Efficient project planning and timely completion.",
+      "f4_title": "Tailored Solutions",
+      "f4_desc": "Every project is customized to meet client needs."
+    },
+    "Testimonials": {
+      "title": "Client Testimonials",
+      "t1_text": "Zawaya International delivered our retail store exactly as envisioned. Their attention to detail and execution quality exceeded expectations.",
+      "t2_text": "A professional team that respects timelines and delivers exceptional luxury finishes."
+    },
+    "CTA": {
+      "title": "Start Your Project With Us",
+      "subtitle": "Let's transform your vision into a remarkable space.",
+      "btnConsult": "Request Consultation",
+      "btnContact": "Contact Us"
+    }
+  },
+  "About": {
+    "title": "About Zawaya",
+    "subtitle": "Crafting Exceptional Interior Spaces",
+    "p1": "Zawaya International is a professional interior fit-out contractor specializing in commercial interiors, retail environments, hospitality spaces, and high-end finishing works.",
+    "p2": "We believe that the best spaces are built on a foundation of collaboration, trust, and a shared vision. Our experienced team of architects, designers, and craftsmen work closely with clients to deliver environments that inspire and engage.",
+    "p3": "With over 15 years of industry experience, we ensure that every project is completed to the highest standards of quality, on time and within budget.",
+    "Meta": {
+      "title": "About Us | Zawaya International",
+      "description": "Learn about Zawaya International, a specialized interior fit-out and retail design contractor."
+    }
+  },
+  "Services": {
+    "Meta": {
+      "title": "Our Services | Zawaya International",
+      "description": "Comprehensive fit-out solutions tailored for luxury and commercial environments."
+    }
+  },
+  "Process": {
+    "Meta": {
+      "title": "Our Process | Zawaya International",
+      "description": "Discover our structured fit-out and interior design process from concept to delivery."
+    }
+  },
+  "Clients": {
+    "title": "Our Clients",
+    "subtitle": "Trusted by Leading Brands",
+    "Meta": {
+      "title": "Clients | Zawaya International",
+      "description": "Discover the premium brands and businesses that trust Zawaya International."
+    }
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Get in touch with our team for your next interior project.",
+    "infoTitle": "Contact Information",
+    "location": "Location",
+    "phone": "Phone",
+    "email": "Email",
+    "social": "Follow Us",
+    "formName": "Full Name",
+    "formEmail": "Email Address",
+    "formPhone": "Phone Number",
+    "formProjectType": "Project Type",
+    "formMessage": "Message",
+    "btnSend": "Send Message",
+    "Meta": {
+      "title": "Contact Us | Zawaya International",
+      "description": "Get in touch with Zawaya International for your interior design and fit-out needs."
+    }
+  },
+  "SingleProject": {
+    "overview": "Project Overview",
+    "overviewDesc": "A complete interior fit-out transformation focusing on premium materials, bespoke lighting, and an optimal flow to enhance the space experience. We managed the entire process from conceptual detailing to the final luxury finishing.",
+    "details": "Project Details",
+    "client": "Client",
+    "location": "Location",
+    "area": "Area",
+    "year": "Completion Year",
+    "scope": "Scope of Work",
+    "scopeDesc": "Interior Fit-Out, Custom Joinery, MEP Works",
+    "gallery": "Gallery"
+  }
+}
