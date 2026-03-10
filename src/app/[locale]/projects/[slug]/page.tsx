@@ -1,6 +1,5 @@
 import { getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
-import { motion } from 'framer-motion';
 
 export async function generateMetadata({ params: { locale, slug } }: { params: { locale: string, slug: string } }) {
     const t = await getTranslations({ locale, namespace: 'Projects.Meta' });

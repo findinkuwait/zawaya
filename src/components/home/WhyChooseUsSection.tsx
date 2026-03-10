@@ -19,7 +19,7 @@ export default function WhyChooseUsSection() {
         <section className="py-24 bg-secondary text-white">
             <div className="container mx-auto px-6 md:px-12">
                 <div className="text-center mb-16">
-                    <SectionHeading title={t('title')} dark />
+                    <SectionHeading title={t('title')} dark center />
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 md:gap-8 px-4 md:px-0">

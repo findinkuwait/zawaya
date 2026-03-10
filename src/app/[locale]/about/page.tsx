@@ -14,10 +14,10 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
     const t = await getTranslations({ locale, namespace: 'About' });
 
     return (
-        <div className="py-24 bg-background min-h-screen">
+        <div className="pt-40 pb-24 bg-background min-h-screen">
             <div className="container mx-auto px-6 md:px-12">
-                <SectionHeading title={t('title')} subtitle={t('subtitle')} />
-                <div className="mt-12 text-lg text-gray-300 space-y-6 max-w-4xl font-en-body font-ar-body leading-relaxed">
+                <SectionHeading title={t('title')} subtitle={t('subtitle')} center />
+                <div className="mt-12 text-lg text-gray-300 space-y-6 max-w-4xl mx-auto text-center font-en-body font-ar-body leading-relaxed">
                     <p>{t('p1')}</p>
                     <p>{t('p2')}</p>
                     <p>{t('p3')}</p>

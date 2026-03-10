@@ -11,7 +11,7 @@ export async function generateMetadata({ params: { locale } }: { params: { local
 
 export default async function ProcessPage() {
     return (
-        <div className="pt-24 min-h-screen bg-background">
+        <div className="pt-40 pb-24 min-h-screen bg-background">
             <ProcessSection />
         </div>
     );

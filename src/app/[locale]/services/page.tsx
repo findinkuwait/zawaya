@@ -23,9 +23,9 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
     ];
 
     return (
-        <div className="py-24 bg-[#0a0a0a] min-h-screen">
+        <div className="pt-40 pb-24 bg-[#0a0a0a] min-h-screen">
             <div className="container mx-auto px-6 md:px-12">
-                <SectionHeading title={t('title')} subtitle={t('subtitle')} />
+                <SectionHeading title={t('title')} subtitle={t('subtitle')} center />
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-12">
                     {services.map((service, idx) => (
                         <ServiceCard key={idx} title={service.title} description={service.desc} icon={service.icon} />

@@ -36,8 +36,8 @@ export default async function LocaleLayout({
     const messages = await getMessages();
 
     return (
-        <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'} className={`${playfair.variable} ${inter.variable} ${cairo.variable} ${tajawal.variable}`}>
-            <body className="flex flex-col min-h-screen">
+        <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'} className={`${playfair.variable} ${inter.variable} ${cairo.variable} ${tajawal.variable}`} suppressHydrationWarning>
+            <body className="flex flex-col min-h-screen" suppressHydrationWarning>
                 <NextIntlClientProvider messages={messages}>
                     <Header />
                     <main className="flex-grow">

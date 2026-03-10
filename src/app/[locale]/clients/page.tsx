@@ -17,9 +17,9 @@ export default async function ClientsPage({ params }: { params: Promise<{ locale
     const clients = Array.from({ length: 12 }).map((_, i) => `Client ${i + 1}`);
 
     return (
-        <div className="py-32 min-h-screen bg-background">
+        <div className="pt-40 pb-32 min-h-screen bg-background">
             <div className="container mx-auto px-6 md:px-12 text-center text-white">
-                <SectionHeading title={t('title')} subtitle={t('subtitle')} />
+                <SectionHeading title={t('title')} subtitle={t('subtitle')} center />
 
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-16 max-w-5xl mx-auto">
                     {clients.map((client, idx) => (

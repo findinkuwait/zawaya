@@ -19,7 +19,7 @@ export default function ProcessSection() {
         <section className="py-24 bg-[#0a0a0a] border-t border-white/5">
             <div className="container mx-auto px-6 md:px-12">
                 <div className="text-center mb-20">
-                    <SectionHeading title={t('title')} subtitle={t('subtitle')} />
+                    <SectionHeading title={t('title')} subtitle={t('subtitle')} center />
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-10 relative">

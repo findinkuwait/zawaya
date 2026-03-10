@@ -27,7 +27,7 @@ export default function TestimonialsSection() {
         <section className="py-24 bg-[#0a0a0a]">
             <div className="container mx-auto px-6 md:px-12">
                 <div className="text-center mb-16 max-w-2xl mx-auto">
-                    <SectionHeading title={t('title')} />
+                    <SectionHeading title={t('title')} center />
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-8 max-w-5xl mx-auto px-4 md:px-0">
